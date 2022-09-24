@@ -25,7 +25,7 @@ export default {
       (story) => `<div style="margin: 3em">${story}</div>`
     ),
   ],
-  title: 'TaskList',
+  title: 'NEW API/TaskList',
   argTypes: {
     pinTaskList: {
       action: 'pinTask',

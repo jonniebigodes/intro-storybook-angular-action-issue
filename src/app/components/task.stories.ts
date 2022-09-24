@@ -4,7 +4,7 @@ import { TaskComponent } from './task.component';
 
 export default {
   component: TaskComponent,
-  title: 'Task',
+  title: 'NEW API/Task',
   argTypes: {
     pinTask: {
       action: 'pinTask',
